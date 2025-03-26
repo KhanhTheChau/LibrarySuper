@@ -51,23 +51,34 @@ class AuthService {
   async signIn(data) {
     const { email, matkhau } = data;
 
-    // if (email)
-    //       throw new ApiError(400, "Email is required");
+    if (!email) throw new Error("Email is required");
+    if (!matkhau) throw new Error("Password is required");
 
-    // if (matkhau)
-    //       throw new ApiError(400, "Password is required");
-
-    const userLogin = await models.docgia.findOne({ email: email });
-
-    if (!userLogin) {
-      throw new ApiError(404, "User not found");
+    // Kiểm tra trong bảng NHANVIEN (Admin hoặc Nhân viên)
+    const adminLogin = await models.nhanvien.findOne({ email });
+    const userLogin = await models.docgia.findOne({ email });
+    if (adminLogin && userLogin) {
+      const isMatch = await this.decryptPassword(adminLogin.matkhau, matkhau);
+      if (!isMatch) throw new Error("Password is incorrect");
+      return { role: adminLogin.chucvu, data: userLogin };
     }
-    // Kiểm tra mật khẩu hiện tại
-    const isMatch = await this.decryptPassword(userLogin.matkhau, matkhau);
+    
+    if (adminLogin) {
+      const isMatch = await this.decryptPassword(adminLogin.matkhau, matkhau);
+      if (!isMatch) throw new Error("Password is incorrect");
+      return { role: adminLogin.chucvu, data: adminLogin };
+    }
 
-    if (!isMatch) throw Error("Password is incorrect");
+    // Kiểm tra trong bảng DOCGIA (User)
+    // const userLogin = await models.docgia.findOne({ email });
+    if (userLogin) {
+      const isMatch = await this.decryptPassword(userLogin.matkhau, matkhau);
+      if (!isMatch) throw new Error("Password is incorrect");
+      return { role: "user", data: userLogin };
+    }
 
-    return userLogin;
+    // Không tìm thấy tài khoản
+    throw new Error("User not found");
   }
 }
 

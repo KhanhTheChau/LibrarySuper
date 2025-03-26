@@ -3,7 +3,6 @@ const ApiError = require("../api-error");
 const mongoose = require("mongoose");
 
 class NhaXuaBanService {
-
   async createNhaXuatBan(data) {
     try {
       const { tennxb, diachi } = data;
@@ -71,6 +70,11 @@ class NhaXuaBanService {
     if (!deletedNXB) throw new Error("Faild to delete NXB");
 
     return deletedNXB;
+  }
+
+  async getAllNhaXuatBan() {
+    const listNXB = await models.nhaxuatban.find({});
+    return listNXB;
   }
 }
 

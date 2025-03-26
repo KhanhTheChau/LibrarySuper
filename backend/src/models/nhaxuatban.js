@@ -12,9 +12,23 @@ const nhaxuatbanSchema = new mongoose.Schema({
     type: Date,
     default: Date.now,
   },
+  namthanhlap: {
+    type: Number, // Năm thành lập nhà xuất bản
+  },
+  lienhe: {
+    email: {
+      type: String,
+      match: [/^\S+@\S+\.\S+$/, "email không hợp lệ"],
+    },
+    sodienthoai: String,
+    website: String,
+  },
   ngaycapnhat: {
     type: Date,
     default: Date.now,
+  },
+    hinhanh: {
+    type: String,
   },
 });
 

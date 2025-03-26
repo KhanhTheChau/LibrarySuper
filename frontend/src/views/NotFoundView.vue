@@ -10,7 +10,7 @@
       </div>
       <div class="undo__btn__wrap">
         <router-link class="text-decoration-none p-2 fw-bold undo__btn" :to="{ name: 'home' }"
-          >Back to Home <i class="fa fa-undo"></i
+          >Quay lại trang chủ<i class="fa fa-undo"></i
         ></router-link>
       </div>
     </div>

@@ -21,11 +21,29 @@ class SachController {
     }
   }
 
-  
   async getSach(req, res) {
     try {
       const sachId = req.params.id;
-      const sach = await SachService.getSach(sachId);
+      const sach = await SachService.findSach(sachId);
+
+      res.status(200).send({
+        message: "Get sach successfully",
+        success: true,
+        sach,
+      });
+    } catch (error) {
+      console.log(error);
+      res.status(500).json({
+        error: "Faild to get sach",
+        success: false,
+      });
+    }
+  }
+
+  async getAllSach(req, res) {
+    try {
+      // const sachId = req.params.id;
+      const sach = await SachService.findAllSach();
 
       res.status(200).send({
         message: "Get sach successfully",

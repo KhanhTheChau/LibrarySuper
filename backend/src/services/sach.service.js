@@ -5,18 +5,21 @@ const mongoose = require("mongoose");
 class SachService {
   async createSach(data) {
     try {
-      
       const newSach = new models.sach({
         tensach: data.tensach,
         nhaxuatban: data.nhaxuatban,
+        theloai: data.theloai, // Bổ sung thể loại
         dongia: data.dongia,
         soquyen: data.soquyen,
         ngayxuatban: data.ngayxuatban,
-        image: data.image,
+        hinhanh: data.hinhanh,
         mota: data.mota,
-        ngaytao: data.ngaytao,
-        ngaycapnhat: data.ngaycapnhat,
         nguongoc: data.nguongoc,
+        ngonngu: data.ngonngu, // Bổ sung ngôn ngữ
+        danhgia: {
+          trungbinh: data.danhgia?.trungbinh || 0,
+          soluong: data.danhgia?.soluong || 0,
+        },
       });
 
       await newSach.save();
@@ -29,12 +32,23 @@ class SachService {
       throw new ApiError(500, "Lỗi khi tạo Sach", error);
     }
   }
-  async getSach(masach) {
-    const SachObjId = new mongoose.Types.ObjectId(masach);
-    const sach = await models.sach.findOne({ masach: SachObjId });
 
-    if (!sach) throw new Error("Not found any sach to given id");
+  async findSach(idBook) {
+    if (!idBook)
+      throw new Error("The book's id is require and cannot be empty");
+    const bookObjId = new mongoose.Types.ObjectId(idBook);
+    const books = await models.sach.findOne({ _id: bookObjId })
+      .populate("nhaxuatban") 
 
+    // const author = await model.Author.find();
+    if (!books) throw new Error("Not found");
+    return books;
+  }
+
+  async findAllSach() {
+    const sach = await models.sach.find().populate("nhaxuatban"); 
+
+    if (!sach) throw new Error("Not found");
     return sach;
   }
 
@@ -48,14 +62,18 @@ class SachService {
     const dataUpdate = {
       tensach: data.tensach,
       nhaxuatban: data.nhaxuatban,
+      theloai: data.theloai, // Bổ sung thể loại
       dongia: data.dongia,
       soquyen: data.soquyen,
       ngayxuatban: data.ngayxuatban,
-      image: data.image,
+      hinhanh: data.hinhanh,
       mota: data.mota,
-      ngaytao: data.ngaytao,
-      ngaycapnhat: data.ngaycapnhat,
       nguongoc: data.nguongoc,
+      ngonngu: data.ngonngu, // Bổ sung ngôn ngữ
+      danhgia: {
+        trungbinh: data.danhgia?.trungbinh || 0,
+        soluong: data.danhgia?.soluong || 0,
+      },
     };
 
     // console.log("dataUpdate: ", dataUpdate);
@@ -67,7 +85,6 @@ class SachService {
       }
     );
 
-    
     if (!updatedSach) throw new Error("update sach failed");
 
     return updatedSach;

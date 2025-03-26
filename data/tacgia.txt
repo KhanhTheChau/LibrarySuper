@@ -1,0 +1,47 @@
+{
+  "name": "Phạm Toàn",
+  "bio": "Phạm Toàn là một nhà giáo dục, nhà văn và dịch giả có nhiều đóng góp quan trọng trong lĩnh vực giáo dục Việt Nam. Ông là một trong những người sáng lập nhóm Cánh Buồm, chuyên nghiên cứu và biên soạn sách giáo khoa với phương pháp giảng dạy hiện đại, giúp học sinh phát triển tư duy sáng tạo và chủ động tiếp thu kiến thức. Các sách giáo khoa của ông được đánh giá cao nhờ nội dung súc tích, dễ hiểu và phù hợp với chương trình cải cách giáo dục.",
+  "dob": "1932-09-30",
+  "link": "https://phamtoan.vn",
+  "image": "/src/assets/data/author/phamtoan.jpg"
+}
+
+[
+  {
+    "name": "Lê Văn Hiếu",
+    "bio": "Lê Văn Hiếu là một nhà giáo và tác giả có nhiều đóng góp trong việc biên soạn sách giáo khoa Toán học cấp trung học. Với hơn 20 năm kinh nghiệm giảng dạy, ông đã tham gia vào nhiều dự án giáo dục quan trọng nhằm nâng cao chất lượng giảng dạy Toán học tại Việt Nam. Các tài liệu và sách của ông được đánh giá cao nhờ cách tiếp cận trực quan, dễ hiểu và phù hợp với chương trình giáo dục hiện đại.",
+    "dob": "1965-08-20",
+    "link": "https://levanhieu.edu.vn",
+    "image": "/src/assets/data/author/levanhieu.jpg"
+  },
+  {
+    "name": "Trần Thị Minh",
+    "bio": "Trần Thị Minh là một tác giả và chuyên gia giáo dục chuyên viết sách giáo khoa về Ngữ văn. Với niềm đam mê văn chương và sự am hiểu sâu sắc về ngôn ngữ, bà đã tham gia biên soạn nhiều tài liệu học tập giúp học sinh phát triển kỹ năng đọc hiểu và viết sáng tạo. Bà cũng là giảng viên tại một trường đại học danh tiếng, nơi bà truyền đạt kiến thức và kinh nghiệm cho thế hệ giáo viên tương lai.",
+    "dob": "1972-11-05",
+    "link": "https://tranthiminh.vn",
+    "image": "/src/assets/data/author/tranthiminh.jpg"
+  },
+  {
+    "name": "Nguyễn Quốc Bảo",
+    "bio": "Nguyễn Quốc Bảo là một chuyên gia trong lĩnh vực Khoa học tự nhiên và là đồng tác giả của nhiều cuốn sách giáo khoa Vật lý dành cho học sinh phổ thông. Với kiến thức sâu rộng và phương pháp giảng dạy hiện đại, ông đã giúp hàng ngàn học sinh yêu thích và hiểu rõ hơn về khoa học. Ngoài việc viết sách, ông còn tham gia các dự án phát triển giáo trình điện tử nhằm mang đến cách tiếp cận học tập linh hoạt và hiệu quả.",
+    "dob": "1980-03-12",
+    "link": "https://nguyenquocbao.vn",
+    "image": "/src/assets/data/author/nguyenquocbao.jpg"
+  }
+]
+
+  {
+    "name": "William Shakespeare",
+    "bio": "William Shakespeare là nhà viết kịch, nhà thơ và diễn viên vĩ đại người Anh, được coi là một trong những nhân vật có ảnh hưởng nhất trong nền văn học thế giới. Ông đã sáng tác hàng chục vở kịch kinh điển như 'Hamlet', 'Macbeth', 'Romeo and Juliet', 'Othello', 'King Lear'... Những tác phẩm của ông không chỉ phản ánh những vấn đề về quyền lực, tình yêu, thù hận, mà còn khai thác chiều sâu tâm lý con người một cách xuất sắc. Văn phong của ông có sức ảnh hưởng rộng lớn đến văn học, nghệ thuật và sân khấu thế giới trong suốt hàng thế kỷ qua.",
+    "dob": "1564-04-23",
+    "link": "https://shakespeare.org.uk",
+    "image": "/src/assets/data/author/shakespeare.jpg"
+  }
+
+  {
+    "name": "Victor Hugo",
+    "bio": "Victor Hugo là nhà văn, nhà thơ, nhà chính trị người Pháp, nổi tiếng với các tác phẩm vĩ đại như 'Les Misérables' và 'The Hunchback of Notre-Dame'. Ông là một trong những biểu tượng quan trọng của văn học lãng mạn thế kỷ 19, đồng thời cũng là một nhà hoạt động xã hội đầy nhiệt huyết. Các tác phẩm của ông phản ánh rõ rệt những vấn đề xã hội, sự đấu tranh của những người nghèo khổ và khao khát công bằng trong xã hội Pháp thế kỷ 19. Ông được xem là một trong những nhà văn có sức ảnh hưởng mạnh mẽ nhất mọi thời đại.",
+    "dob": "1802-02-26",
+    "link": "https://victorhugo.fr",
+    "image": "/src/assets/data/author/victorhugo.jpg"
+  }

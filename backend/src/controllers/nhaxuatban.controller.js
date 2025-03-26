@@ -76,6 +76,25 @@ class NhaXuatBanController {
       });
     }
   }
+
+  async getAllNhaXuatBan(req, res) {
+    try {
+
+      const NXB = await NhaXuatBanService.getAllNhaXuatBan();
+
+      res.status(200).send({
+        message: "Get NXB successfully",
+        success: true,
+        NXB,
+      });
+    } catch (error) {
+      console.log(error);
+      res.status(500).json({
+        error: "Faild to get user",
+        success: false,
+      });
+    }
+  }
 }
 
 module.exports = new NhaXuatBanController();

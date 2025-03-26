@@ -43,7 +43,7 @@ export default {
       },
       {
         name: 'Tel',
-        link: 'tel:0327533787'
+        link: 'tel:0000000000'
       }
     ])
     const contentAddress = reactive({

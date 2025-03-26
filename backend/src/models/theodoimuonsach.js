@@ -2,6 +2,7 @@ const mongoose = require("mongoose");
 const sach = require("./sach");
 const docgia = require("./docgia");
 const nhanvien = require("./nhanvien");
+const tacgia = require("./tacgia");
 
 const theodoimuonsachSchema = new mongoose.Schema({
   sach: {
@@ -9,14 +10,15 @@ const theodoimuonsachSchema = new mongoose.Schema({
     ref: "sach",
     require: true,
   },
+  tacgia: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "tacgia",
+    require: true,
+  },
   docgia: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "docgia",
     require: true,
-  },
-  nguoipheduyet: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: "nhanvien",
   },
   ngaymuon: {
     type: Date,
@@ -30,7 +32,7 @@ const theodoimuonsachSchema = new mongoose.Schema({
   },
   trangthai: {
     type: String,
-    enum: ["Chờ duyệt", "Đã duyệt", "Đang mượn", "Đã trả"],
+    enum: ["Chờ duyệt", "Đã duyệt", "Đã trả"],
     default: "Chờ duyệt",
   },
   soluong: {

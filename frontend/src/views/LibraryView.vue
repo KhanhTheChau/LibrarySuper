@@ -13,8 +13,8 @@
 </template>
 
 <script setup>
-import TheHeader from '@/components/header/TheHeader.vue'
-import TheFooter from '@/components/footer/TheFooter.vue'
+import TheHeader from '../components/header/TheHeader.vue'
+import TheFooter from '../components/footer/TheFooter.vue'
 </script>
 
 <style>

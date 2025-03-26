@@ -1,0 +1,596 @@
+ {
+    "title": "Cô Gái Đến Từ Hôm Qua",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Văn học thiếu nhi", "Tình cảm"],
+    "published_date": "1989-03-14",
+    "price": 60000,
+    "image": "/src/assets/data/book/book53.jpg",
+    "stock": 180,
+    "description": "Cô Gái Đến Từ Hôm Qua là một trong những tác phẩm nổi tiếng của Nguyễn Nhật Ánh, kể về câu chuyện tình yêu tuổi học trò đầy trong sáng và ngây thơ. Nhân vật chính là Thư, một cậu học sinh vụng về nhưng chân thành. Cuốn sách xen kẽ giữa hiện tại và quá khứ, khi Thư hồi tưởng lại những kỷ niệm đẹp với cô bạn thân thời thơ ấu – Tiểu Li. Sự xuất hiện của Việt An, cô gái xinh đẹp và thông minh, đã khiến cuộc sống của Thư trở nên nhiều màu sắc hơn. Từng trang sách dẫn dắt người đọc qua những rung động đầu đời, những trò đùa ngốc nghếch và những bài học sâu sắc về tình bạn và tình yêu. Giọng văn nhẹ nhàng, hóm hỉnh nhưng không kém phần sâu lắng của Nguyễn Nhật Ánh đã khiến Cô Gái Đến Từ Hôm Qua trở thành một cuốn sách kinh điển dành cho tuổi trẻ.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 220
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  }
+
+[
+  {
+    "title": "Ngồi Khóc Trên Cây",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình cảm", "Tuổi học trò"],
+    "published_date": "2013-01-01",
+    "price": 60000,
+    "image": "/src/assets/data/book/book58.jpg",
+    "stock": 150,
+    "description": "Ngồi Khóc Trên Cây là một câu chuyện cảm động của Nguyễn Nhật Ánh, kể về mối tình đầu đầy trong trẻo giữa Đông và Rùa. Đông là một chàng trai trẻ về quê nghỉ hè và gặp gỡ Rùa – cô gái hiền lành, trong sáng. Những buổi chiều trên cánh đồng, những lần trò chuyện bên gốc cây cổ thụ và những bí mật được sẻ chia đã khiến họ trở nên gắn bó. Tuy nhiên, cuộc đời không phải lúc nào cũng êm đềm. Những thử thách và mất mát đã khiến Đông trưởng thành hơn, nhận ra giá trị của tình yêu và tình bạn. Với giọng văn mộc mạc, giàu cảm xúc, Nguyễn Nhật Ánh đã tạo nên một câu chuyện lay động trái tim người đọc.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 290
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Trending"
+  },
+  {
+    "title": "Mắt Biếc",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình cảm", "Lãng mạn"],
+    "published_date": "1990-01-01",
+    "price": 65000,
+    "image": "/src/assets/data/book/book59.jpg",
+    "stock": 180,
+    "description": "Mắt Biếc là tác phẩm nổi tiếng của Nguyễn Nhật Ánh, kể về mối tình đơn phương đầy day dứt của Ngạn dành cho Hà Lan – cô gái có đôi mắt biếc tuyệt đẹp. Câu chuyện bắt đầu từ những ngày thơ ấu tại làng Đo Đo, nơi Ngạn và Hà Lan cùng nhau lớn lên. Khi trưởng thành, Hà Lan rời làng lên thành phố, bỏ lại sau lưng những ký ức đẹp đẽ. Dù biết Hà Lan không bao giờ thuộc về mình, Ngạn vẫn âm thầm dõi theo và yêu cô bằng tất cả trái tim. Với ngôn từ giản dị, chân thành, tác phẩm đã chạm đến trái tim của hàng triệu độc giả và trở thành một trong những cuốn sách tiêu biểu nhất của Nguyễn Nhật Ánh.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 400
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Trending"
+  },
+  {
+    "title": "Nữ Sinh",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tuổi học trò", "Hài hước"],
+    "published_date": "1997-01-01",
+    "price": 55000,
+    "image": "/src/assets/data/book/book60.jpg",
+    "stock": 170,
+    "description": "Nữ Sinh là một tác phẩm hài hước và đáng yêu của Nguyễn Nhật Ánh, kể về cuộc sống học đường của nhóm bạn thân gồm Xuyến, Thục và Cúc Hương. Ba cô gái với ba tính cách khác nhau đã cùng nhau trải qua những tình huống dở khóc dở cười, những trò đùa tinh nghịch và cả những rung động đầu đời. Tác phẩm không chỉ mang đến tiếng cười mà còn giúp người đọc nhìn thấy những giá trị của tình bạn và tuổi trẻ. Với lối kể chuyện hóm hỉnh, gần gũi, Nguyễn Nhật Ánh đã tái hiện chân thực những năm tháng học trò đáng nhớ.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 250
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Trending"
+  },
+  {
+    "title": "Hoa Hồng Xứ Khác",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình cảm", "Lãng mạn"],
+    "published_date": "2010-03-01",
+    "price": 58000,
+    "image": "/src/assets/data/book/book61.jpg",
+    "stock": 200,
+    "description": "Hoa Hồng Xứ Khác là câu chuyện về những rung động nhẹ nhàng và tình yêu chân thành. Nhân vật chính là Thảo, một cô gái trẻ sống xa quê hương, mang trong mình nhiều nỗi niềm và ước mơ. Trong hành trình tìm kiếm bản thân, Thảo gặp gỡ những con người mới, những mối quan hệ giúp cô trưởng thành hơn. Tác phẩm mang đến thông điệp sâu sắc về sự đồng cảm và tình yêu, được thể hiện qua từng dòng chữ đầy cảm xúc. Nguyễn Nhật Ánh đã viết nên một câu chuyện giản dị nhưng vô cùng tinh tế, khiến người đọc không thể rời mắt.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 310
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Trending"
+  },
+  {
+    "title": "Lá Nằm Trong Lá",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình cảm", "Triết lý"],
+    "published_date": "2011-06-01",
+    "price": 62000,
+    "image": "/src/assets/data/book/book62.jpg",
+    "stock": 160,
+    "description": "Lá Nằm Trong Lá là một tác phẩm đậm chất thơ của Nguyễn Nhật Ánh, kể về những mảnh đời khác nhau nhưng được kết nối bởi tình yêu và lòng trắc ẩn. Câu chuyện xoay quanh tình bạn và tình yêu của các nhân vật trẻ tuổi, mỗi người mang trong mình những nỗi đau và khát vọng riêng. Bằng lối viết nhẹ nhàng và tinh tế, tác giả đã khắc họa những cảm xúc chân thật và sâu lắng. Lá Nằm Trong Lá không chỉ là một câu chuyện tình yêu đơn thuần, mà còn là bài ca về lòng nhân ái và sự thấu hiểu giữa con người với nhau.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 350
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Trending"
+  }
+]
+
+[
+  {
+    "title": "Cô Gái Đến Từ Hôm Qua",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình cảm", "Tuổi học trò"],
+    "published_date": "1989-01-01",
+    "price": 60000,
+    "image": "/src/assets/data/book/book54.jpg",
+    "stock": 180,
+    "description": "Cô Gái Đến Từ Hôm Qua là một trong những tác phẩm nổi tiếng của Nguyễn Nhật Ánh, kể về câu chuyện tình yêu tuổi học trò đầy trong sáng và ngây thơ. Nhân vật chính là Thư, một cậu học sinh vụng về nhưng chân thành. Cuốn sách xen kẽ giữa hiện tại và quá khứ, khi Thư hồi tưởng lại những kỷ niệm đẹp với cô bạn thân thời thơ ấu – Tiểu Li. Sự xuất hiện của Việt An, cô gái xinh đẹp và thông minh, đã khiến cuộc sống của Thư trở nên nhiều màu sắc hơn. Từng trang sách dẫn dắt người đọc qua những rung động đầu đời, những trò đùa ngốc nghếch và những bài học sâu sắc về tình bạn và tình yêu. Giọng văn nhẹ nhàng, hóm hỉnh nhưng không kém phần sâu lắng của Nguyễn Nhật Ánh đã khiến Cô Gái Đến Từ Hôm Qua trở thành một cuốn sách kinh điển dành cho tuổi trẻ.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 270
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Bảy Bước Tới Mùa Hè",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tuổi học trò", "Tình cảm"],
+    "published_date": "2015-07-01",
+    "price": 55000,
+    "image": "/src/assets/data/book/book55.jpg",
+    "stock": 160,
+    "description": "Bảy Bước Tới Mùa Hè là câu chuyện nhẹ nhàng về tuổi học trò đầy ắp những rung động đầu đời. Tác phẩm kể về những ngày hè đầy kỷ niệm của cậu bé Khoa cùng nhóm bạn thân. Mỗi bước chân trong mùa hè ấy là một trải nghiệm đáng nhớ, từ những trò chơi tinh nghịch đến những buổi chiều thả diều trên cánh đồng quê. Đặc biệt, những rung cảm đầu tiên với cô bạn Vy khiến Khoa nhận ra những thay đổi trong lòng mình. Nguyễn Nhật Ánh bằng ngôn từ mộc mạc và giản dị đã tái hiện những khoảnh khắc trong trẻo và chân thực của tuổi trẻ. Cuốn sách là lời nhắc nhở về những ngày tháng hồn nhiên mà ai cũng từng trải qua, khi tình bạn và tình yêu thuở ban đầu vẫn còn nguyên vẹn.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 220
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tuổi thơ", "Triết lý"],
+    "published_date": "2008-10-01",
+    "price": 65000,
+    "image": "/src/assets/data/book/book56.jpg",
+    "stock": 140,
+    "description": "Cho Tôi Xin Một Vé Đi Tuổi Thơ là tác phẩm đặc sắc của Nguyễn Nhật Ánh, đưa người đọc quay trở lại những ngày tháng tuổi thơ trong trẻo và hồn nhiên. Câu chuyện kể về cu Tí, Hải cò, Tủn và Tí sún – những đứa trẻ với những trò nghịch ngợm và những ước mơ ngây thơ. Thông qua những mẩu chuyện nhỏ, tác giả đã gợi nhắc về một thời thơ ấu tươi đẹp, khi mọi điều trong mắt trẻ thơ đều trở nên kỳ diệu. Không chỉ là câu chuyện vui nhộn, cuốn sách còn chứa đựng những triết lý nhẹ nhàng về cuộc sống, tình bạn và tình cảm gia đình. Với giọng văn gần gũi, tác phẩm khiến người đọc vừa bật cười vừa rưng rưng xúc động. Đây là cuốn sách lý tưởng cho bất kỳ ai muốn tìm lại những kỷ niệm xưa cũ của mình.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 300
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Làm Bạn Với Bầu Trời",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Tình bạn", "Văn học thiếu nhi"],
+    "published_date": "2020-06-01",
+    "price": 60000,
+    "image": "/src/assets/data/book/book57.jpg",
+    "stock": 130,
+    "description": "Làm Bạn Với Bầu Trời là câu chuyện cảm động về tình bạn và nghị lực sống. Nhân vật chính là Tèo, một cậu bé không may bị khuyết tật nhưng lại mang trong mình tâm hồn lạc quan và trái tim nhân hậu. Tèo yêu bầu trời rộng lớn và luôn mơ ước có thể bay lên như những chú chim. Qua những trang sách, người đọc sẽ cảm nhận được tình bạn đẹp đẽ giữa Tèo và các bạn đồng trang lứa, cũng như tình yêu thương từ gia đình. Nguyễn Nhật Ánh đã viết nên một tác phẩm đầy cảm hứng, truyền tải thông điệp tích cực về nghị lực sống và lòng nhân ái. Cuốn sách là món quà tuyệt vời dành cho mọi lứa tuổi, nhất là những ai cần tìm lại niềm tin vào cuộc sống.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 280
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  }
+]
+[
+  {
+    "title": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Văn học thiếu nhi", "Tâm lý"],
+    "published_date": "2010-09-12",
+    "price": 70000,
+    "image": "/src/assets/data/book/book52.jpg",
+    "stock": 150,
+    "description": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh là một câu chuyện đầy cảm xúc về tuổi thơ, tình bạn và gia đình tại vùng quê Việt Nam. Cuốn sách kể về cuộc sống của hai anh em Thiều và Tường, với những kỷ niệm ngọt ngào và cả những nỗi buồn sâu lắng. Qua từng trang sách, Nguyễn Nhật Ánh đã tái hiện một thế giới tuổi thơ trong sáng, nơi có những trò chơi trẻ con, những buổi chiều thả diều và những cánh đồng lúa xanh bát ngát. Tình bạn giữa Thiều và Tường được khắc họa chân thực, xen lẫn những ghen tị và yêu thương. Tác phẩm không chỉ gợi nhắc về những ký ức tuổi thơ mà còn gửi gắm thông điệp về sự bao dung, tình thương và sự trưởng thành. Cuốn sách từng được chuyển thể thành phim điện ảnh cùng tên, để lại ấn tượng sâu sắc trong lòng khán giả. Nếu bạn từng có một tuổi thơ với những giấc mơ đơn giản và những niềm vui bé nhỏ, cuốn sách này chắc chắn sẽ mang đến những cảm xúc khó quên.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 250
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Kính Vạn Hoa",
+    "author": "67e2711e6c802be62d70b9fa",
+    "publisher": "67e26ef86c802be62d70b9f6",
+    "genre": ["Văn học thiếu nhi", "Hài hước", "Phiêu lưu"],
+    "published_date": "1995-07-01",
+    "price": 50000,
+    "image": "/src/assets/data/book/book53.jpg",
+    "stock": 200,
+    "description": "Kính Vạn Hoa là bộ truyện gắn liền với tuổi thơ của nhiều thế hệ độc giả Việt Nam. Tác phẩm xoay quanh ba người bạn thân: Quý Ròm, Tiểu Long và nhỏ Hạnh. Mỗi nhân vật mang một cá tính riêng biệt, tạo nên những tình huống hài hước và thú vị. Quý Ròm thông minh nhưng đôi lúc kiêu ngạo, Tiểu Long khỏe mạnh nhưng nhút nhát, còn nhỏ Hạnh hiền lành và giàu lòng nhân ái. Bộ ba cùng nhau khám phá những câu chuyện đời thường nhưng đầy màu sắc, từ việc giúp đỡ bạn bè, giải quyết những hiểu lầm, đến những bài học quý giá về tình bạn và sự trung thực. Nguyễn Nhật Ánh đã khéo léo truyền tải thông điệp về tình yêu thương và lòng tốt thông qua từng câu chuyện. Với lối viết tự nhiên, chân thành và hóm hỉnh, Kính Vạn Hoa thực sự là một cuốn sách không thể thiếu trên giá sách của mỗi gia đình.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 300
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  }
+]
+
+[
+  {
+    "title": "Tiếng Việt 1 - Tập 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Ngữ văn"],
+    "published_date": "2018-01-01",
+    "price": 32000,
+    "image": "/src/assets/data/book/book68.jpg",
+    "stock": 500,
+    "description": "Tiếng Việt 1 - Tập 1 là sách giáo khoa được biên soạn theo Chương trình Giáo dục Phổ thông mới. Sách giúp học sinh lớp 1 làm quen với mặt chữ, các âm vần và cách ghép vần thành từ. Nội dung sách được thiết kế sinh động với nhiều hình ảnh minh họa hấp dẫn, giúp học sinh dễ dàng tiếp thu và ghi nhớ kiến thức. Ngoài ra, các bài tập thực hành và câu chuyện ngắn cũng giúp các em phát triển kỹ năng đọc, viết và giao tiếp cơ bản.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 150
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Tiếng Việt 1 - Tập 2",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Ngữ văn"],
+    "published_date": "2018-06-01",
+    "price": 32000,
+    "image": "/src/assets/data/book/book69.jpg",
+    "stock": 500,
+    "description": "Tiếng Việt 1 - Tập 2 tiếp tục hành trình học ngôn ngữ cho học sinh lớp 1, tập trung vào các bài học nâng cao về ghép vần, phát âm chuẩn và mở rộng vốn từ. Cuốn sách cung cấp những câu chuyện ngắn, bài thơ và các đoạn hội thoại giúp học sinh rèn luyện kỹ năng đọc hiểu và phát triển khả năng tư duy ngôn ngữ. Các bài tập phong phú và hình ảnh minh họa sinh động giúp học sinh học tập hiệu quả và hứng thú hơn.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 130
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Toán 1 - Tập 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Toán học"],
+    "published_date": "2018-01-01",
+    "price": 30000,
+    "image": "/src/assets/data/book/book70.jpg",
+    "stock": 480,
+    "description": "Toán 1 - Tập 1 là sách giáo khoa giúp học sinh lớp 1 làm quen với các khái niệm toán học cơ bản như số đếm, phép cộng, phép trừ và nhận dạng hình học đơn giản. Các bài tập thực hành và trò chơi toán học trong sách giúp học sinh rèn luyện tư duy logic và kỹ năng giải quyết vấn đề. Nội dung sách được trình bày dễ hiểu và trực quan, phù hợp với lứa tuổi tiểu học.",
+    "ratings": {
+      "average": 4.6,
+      "reviews_count": 110
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Toán 1 - Tập 2",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Toán học"],
+    "published_date": "2018-06-01",
+    "price": 30000,
+    "image": "/src/assets/data/book/book71.jpg",
+    "stock": 470,
+    "description": "Toán 1 - Tập 2 tiếp tục cung cấp các bài học mở rộng về phép cộng, phép trừ, so sánh số và nhận diện hình dạng phức tạp hơn. Sách có nhiều bài tập ứng dụng thực tế và các trò chơi tư duy giúp học sinh rèn luyện khả năng suy luận và giải bài tập hiệu quả. Phạm Toàn đã biên soạn sách theo phương pháp giảng dạy hiện đại, khuyến khích học sinh tự học và khám phá.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 115
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Đạo Đức 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Giáo dục công dân"],
+    "published_date": "2018-01-01",
+    "price": 28000,
+    "image": "/src/assets/data/book/book72.jpg",
+    "stock": 490,
+    "description": "Đạo Đức 1 là sách giáo khoa giúp học sinh lớp 1 làm quen với những bài học đạo đức cơ bản và các giá trị sống tốt đẹp. Sách sử dụng nhiều hình ảnh minh họa sinh động và các tình huống gần gũi để trẻ dễ dàng hiểu và vận dụng vào cuộc sống hàng ngày. Nội dung sách giúp học sinh phát triển kỹ năng giao tiếp, ứng xử văn minh và hình thành những thói quen tốt ngay từ nhỏ.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 160
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  }
+]
+[
+  {
+    "title": "Tự Nhiên và Xã Hội 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Khoa học xã hội"],
+    "published_date": "2018-01-01",
+    "price": 29000,
+    "image": "/src/assets/data/book/book73.jpg",
+    "stock": 480,
+    "description": "Tự Nhiên và Xã Hội 1 là sách giáo khoa dành cho học sinh lớp 1, giúp các em khám phá thế giới tự nhiên và xã hội xung quanh. Sách cung cấp những kiến thức cơ bản về môi trường sống, các loài động thực vật, cơ thể con người và những nguyên tắc ứng xử trong cộng đồng. Thông qua các hoạt động thực hành và bài tập thực tế, học sinh sẽ phát triển tư duy quan sát và biết cách bảo vệ môi trường.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 140
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Mĩ Thuật 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Nghệ thuật"],
+    "published_date": "2018-01-01",
+    "price": 27000,
+    "image": "/src/assets/data/book/book74.jpg",
+    "stock": 470,
+    "description": "Mĩ Thuật 1 là sách giáo khoa giúp học sinh lớp 1 phát triển khả năng sáng tạo và cảm thụ nghệ thuật thông qua các bài học vẽ tranh, tô màu, cắt dán và nặn đất sét. Sách được biên soạn với nhiều hình ảnh minh họa sống động, hướng dẫn từng bước giúp các em thực hành và khám phá khả năng nghệ thuật của mình. Ngoài ra, sách còn khuyến khích học sinh quan sát thiên nhiên và tái hiện thế giới xung quanh bằng tranh vẽ.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 130
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Âm Nhạc 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Âm nhạc"],
+    "published_date": "2018-01-01",
+    "price": 25000,
+    "image": "/src/assets/data/book/book75.jpg",
+    "stock": 460,
+    "description": "Âm Nhạc 1 là sách giáo khoa mang đến cho học sinh lớp 1 những bài học nhạc lý cơ bản và các bài hát thiếu nhi vui tươi. Sách bao gồm các hoạt động hát, nghe nhạc, cảm thụ âm nhạc và chơi nhạc cụ đơn giản. Thông qua các bài tập thực hành và trò chơi âm nhạc, học sinh sẽ rèn luyện kỹ năng nghe, phát âm và cảm nhận giai điệu. Đây là bước khởi đầu quan trọng giúp các em yêu thích và gắn bó với âm nhạc.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 125
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Thủ Công 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Kỹ năng sống"],
+    "published_date": "2018-01-01",
+    "price": 26000,
+    "image": "/src/assets/data/book/book76.jpg",
+    "stock": 450,
+    "description": "Thủ Công 1 là sách giáo khoa dành cho học sinh lớp 1, hướng dẫn các em thực hiện các hoạt động thủ công như cắt, dán, gấp giấy và làm đồ chơi đơn giản. Sách được thiết kế với nhiều hình ảnh minh họa sinh động, giúp học sinh dễ dàng làm theo và hoàn thành sản phẩm. Thông qua các bài học, học sinh không chỉ phát triển kỹ năng khéo léo mà còn rèn luyện sự kiên nhẫn và khả năng sáng tạo.",
+    "ratings": {
+      "average": 4.6,
+      "reviews_count": 120
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  },
+  {
+    "title": "Giáo Dục Thể Chất 1",
+    "author": "67e27c94c3acbb3ea308a9be",
+    "publisher": "67e26fba6c802be62d70b9f8",
+    "genre": ["Sách giáo khoa", "Thể dục thể thao"],
+    "published_date": "2018-01-01",
+    "price": 24000,
+    "image": "/src/assets/data/book/book77.jpg",
+    "stock": 440,
+    "description": "Giáo Dục Thể Chất 1 là sách giáo khoa giúp học sinh lớp 1 phát triển thể chất và rèn luyện sức khỏe thông qua các bài tập vận động, trò chơi và hoạt động thể thao đơn giản. Sách giới thiệu các động tác cơ bản như đi, chạy, nhảy và ném bóng, giúp học sinh hình thành kỹ năng vận động và làm quen với các nguyên tắc cơ bản của thể thao. Các bài học trong sách cũng khuyến khích học sinh tham gia các hoạt động nhóm, rèn luyện tinh thần đồng đội.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 135
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "SGK"
+  }
+]
+
+[
+  {
+    "title": "Những Người Khốn Khổ",
+    "author": "67e29da03f69ddd0f2df39dc",
+    "publisher": "67e29e993f69ddd0f2df39e0",
+    "genre": ["Tiểu thuyết", "Classic"],
+    "published_date": "1862-01-01",
+    "price": 120000,
+    "image": "/src/assets/data/book/book88.jpg",
+    "stock": 200,
+    "description": "Những Người Khốn Khổ là tác phẩm nổi tiếng nhất của Victor Hugo, phản ánh sâu sắc xã hội Pháp thế kỷ 19. Cuốn tiểu thuyết kể về cuộc đời gian truân của Jean Valjean - một cựu tù nhân bị ám ảnh bởi quá khứ và hành trình đi tìm sự chuộc lỗi. Bên cạnh đó, tác phẩm còn khắc họa chân thực những mảnh đời bất hạnh trong xã hội và lên án sự bất công qua từng trang sách.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 1500
+    },
+    "country": "Pháp",
+    "language": "Tiếng Pháp",
+    "label": "Classic"
+  },
+  {
+    "title": "Nhà Thờ Đức Bà Paris",
+    "author": "67e29da03f69ddd0f2df39dc",
+    "publisher": "67e29e993f69ddd0f2df39e0",
+    "genre": ["Tiểu thuyết", "Classic"],
+    "published_date": "1831-03-16",
+    "price": 100000,
+    "image": "/src/assets/data/book/book89.jpg",
+    "stock": 180,
+    "description": "Nhà Thờ Đức Bà Paris là tác phẩm nổi bật của Victor Hugo, lấy bối cảnh tại nhà thờ Notre-Dame ở Paris vào thế kỷ 15. Câu chuyện xoay quanh số phận bi thảm của nàng Esmeralda xinh đẹp, thằng gù Quasimodo và tên linh mục độc ác Frollo. Tác phẩm không chỉ là một câu chuyện tình yêu đầy bi kịch mà còn là tiếng nói phê phán những định kiến xã hội và sự tàn bạo của con người.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 1200
+    },
+    "country": "Pháp",
+    "language": "Tiếng Pháp",
+    "label": "Classic"
+  },
+  {
+    "title": "Người Cười",
+    "author": "67e29da03f69ddd0f2df39dc",
+    "publisher": "67e29e993f69ddd0f2df39e0",
+    "genre": ["Tiểu thuyết", "Classic"],
+    "published_date": "1869-04-01",
+    "price": 95000,
+    "image": "/src/assets/data/book/book90.jpg",
+    "stock": 150,
+    "description": "Người Cười kể về cuộc đời đầy đau khổ của Gwynplaine - một chàng trai với gương mặt bị biến dạng thành nụ cười vĩnh viễn. Tác phẩm là một bản cáo trạng về sự bất công và phân biệt giai cấp trong xã hội phong kiến châu Âu. Victor Hugo đã thể hiện lòng trắc ẩn sâu sắc đối với những con người bị xã hội ruồng bỏ và lên án mạnh mẽ sự tàn nhẫn của chế độ phong kiến.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 1100
+    },
+    "country": "Pháp",
+    "language": "Tiếng Pháp",
+    "label": "Classic"
+  },
+  {
+    "title": "Năm Chín Mươi Ba",
+    "author": "67e29da03f69ddd0f2df39dc",
+    "publisher": "67e29e993f69ddd0f2df39e0",
+    "genre": ["Lịch sử", "Classic"],
+    "published_date": "1874-06-30",
+    "price": 105000,
+    "image": "/src/assets/data/book/book91.jpg",
+    "stock": 160,
+    "description": "Năm Chín Mươi Ba là cuốn tiểu thuyết lịch sử của Victor Hugo, lấy bối cảnh cuộc Cách mạng Pháp năm 1793. Tác phẩm xoay quanh cuộc chiến giữa những người cách mạng và phe bảo hoàng, phản ánh sự mâu thuẫn giữa lý tưởng và thực tế tàn khốc của chiến tranh. Qua từng nhân vật và sự kiện, Victor Hugo bày tỏ lòng yêu nước và niềm tin vào công lý.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 950
+    },
+    "country": "Pháp",
+    "language": "Tiếng Pháp",
+    "label": "Classic"
+  },
+  {
+    "title": "Huyền Thoại Thế Kỷ",
+    "author": "67e29da03f69ddd0f2df39dc",
+    "publisher": "67e29e993f69ddd0f2df39e0",
+    "genre": ["Thơ", "Classic"],
+    "published_date": "1859-01-01",
+    "price": 85000,
+    "image": "/src/assets/data/book/book92.jpg",
+    "stock": 140,
+    "description": "Huyền Thoại Thế Kỷ là tập thơ vĩ đại của Victor Hugo, phản ánh những sự kiện lịch sử quan trọng của nhân loại qua góc nhìn đầy triết lý và nhân văn. Tác phẩm là sự hòa quyện giữa hiện thực và tưởng tượng, với ngôn từ mạnh mẽ và đầy cảm xúc. Đây là một kiệt tác của thơ ca Pháp, góp phần định hình văn học thế giới.",
+    "ratings": {
+      "average": 4.6,
+      "reviews_count": 800
+    },
+    "country": "Pháp",
+    "language": "Tiếng Pháp",
+    "label": "Classic"
+  }
+]
+
+[
+  {
+    "title": "Số Đỏ",
+    "author": "67e2a48d3f69ddd0f2df3a92",
+    "publisher": "67e2a3393f69ddd0f2df3a8a",
+    "genre": ["Tiểu thuyết", "Classic", "Châm biếm"],
+    "published_date": "1936-01-01",
+    "price": 80000,
+    "image": "/src/assets/data/book/book98.jpg",
+    "stock": 150,
+    "description": "Số Đỏ là một tác phẩm châm biếm nổi tiếng của Vũ Trọng Phụng, phản ánh xã hội Việt Nam những năm 1930. Câu chuyện xoay quanh Xuân Tóc Đỏ, một kẻ lưu manh nhờ vào vận may mà trở thành nhân vật có địa vị trong xã hội. Thông qua lối kể chuyện hài hước và sắc sảo, tác giả đã phơi bày những thói hư tật xấu của tầng lớp thượng lưu giả tạo và nền văn hóa lai căng đương thời.",
+    "ratings": {
+      "average": 4.8,
+      "reviews_count": 1500
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Làm Đĩ",
+    "author": "67e2a48d3f69ddd0f2df3a92",
+    "publisher": "67e2a3393f69ddd0f2df3a8a",
+    "genre": ["Tiểu thuyết", "Classic", "Tâm lý"],
+    "published_date": "1936-01-01",
+    "price": 85000,
+    "image": "/src/assets/data/book/book99.jpg",
+    "stock": 140,
+    "description": "Làm Đĩ là một tiểu thuyết tâm lý đặc sắc của Vũ Trọng Phụng, tập trung vào bi kịch của cuộc đời cô Huyền. Tác phẩm lột tả nỗi đau và sự giằng xé tâm lý của một người phụ nữ trong xã hội phong kiến. Bằng ngòi bút sắc bén và đầy cảm xúc, Vũ Trọng Phụng đã lên án những bất công và định kiến xã hội, đồng thời khơi gợi sự đồng cảm với những thân phận bất hạnh.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 1300
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Kỹ Nghệ Lấy Tây",
+    "author": "67e2a48d3f69ddd0f2df3a92",
+    "publisher": "67e2a3393f69ddd0f2df3a8a",
+    "genre": ["Tiểu thuyết", "Classic", "Châm biếm"],
+    "published_date": "1934-01-01",
+    "price": 82000,
+    "image": "/src/assets/data/book/book100.jpg",
+    "stock": 160,
+    "description": "Kỹ Nghệ Lấy Tây là một tác phẩm châm biếm thâm thúy của Vũ Trọng Phụng, vạch trần hiện tượng phụ nữ Việt Nam chạy theo lối sống Tây hóa để mưu cầu danh vọng và tiền tài. Bằng giọng văn hài hước, tác giả đã xây dựng nên những nhân vật điển hình trong xã hội đương thời, qua đó phản ánh sự tha hóa đạo đức và những bi kịch cá nhân.",
+    "ratings": {
+      "average": 4.6,
+      "reviews_count": 1200
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Giông Tố",
+    "author": "67e2a48d3f69ddd0f2df3a92",
+    "publisher": "67e2a3393f69ddd0f2df3a8a",
+    "genre": ["Tiểu thuyết", "Classic", "Tâm lý"],
+    "published_date": "1937-01-01",
+    "price": 90000,
+    "image": "/src/assets/data/book/book101.jpg",
+    "stock": 130,
+    "description": "Giông Tố là một trong những tiểu thuyết xuất sắc nhất của Vũ Trọng Phụng, phản ánh xã hội Việt Nam thời thuộc địa. Tác phẩm xoay quanh những mối quan hệ phức tạp giữa các tầng lớp trong xã hội, nơi đồng tiền chi phối mọi giá trị đạo đức. Với ngôn ngữ chân thực và những tình huống đầy kịch tính, Vũ Trọng Phụng đã tái hiện bức tranh sống động về sự tha hóa và bất công.",
+    "ratings": {
+      "average": 4.9,
+      "reviews_count": 1400
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  },
+  {
+    "title": "Vỡ Đê",
+    "author": "67e2a48d3f69ddd0f2df3a92",
+    "publisher": "67e2a3393f69ddd0f2df3a8a",
+    "genre": ["Tiểu thuyết", "Classic", "Phản ánh xã hội"],
+    "published_date": "1936-01-01",
+    "price": 88000,
+    "image": "/src/assets/data/book/book102.jpg",
+    "stock": 140,
+    "description": "Vỡ Đê là một tác phẩm hiện thực xuất sắc của Vũ Trọng Phụng, phản ánh nạn lụt lội và tình cảnh khốn cùng của người dân nghèo dưới chế độ thực dân phong kiến. Thông qua những nhân vật chân thực và tình huống đầy bi kịch, tác giả đã khắc họa rõ nét sự tàn bạo của xã hội bất công và lòng thương cảm sâu sắc dành cho những con người khốn khổ.",
+    "ratings": {
+      "average": 4.7,
+      "reviews_count": 1350
+    },
+    "country": "Việt Nam",
+    "language": "Tiếng Việt",
+    "label": "Classic"
+  }
+]
+

@@ -1,0 +1,23 @@
+  {
+    "name": "Oxford World's Classics",
+    "location": "Great Clarendon Street, Oxford, OX2 6DP, United Kingdom",
+    "establishedYear": 1901,
+    "contact": {
+      "email": "info@oup.com",
+      "phone": "+44 1865 556767",
+      "website": "https://global.oup.com/"
+    },
+    "image": "/src/assets/data/publisher/oxford_classics.png"
+  }
+
+  {
+    "name": "Nhà sách Đông A",
+    "location": "62 Lê Lợi, Quận 1, TP. Hồ Chí Minh, Việt Nam",
+    "establishedYear": 2006,
+    "contact": {
+      "email": "support@donga.vn",
+      "phone": "028.38228678",
+      "website": "https://donga.vn"
+    },
+    "image": "/src/assets/data/publisher/donga.png"
+  }

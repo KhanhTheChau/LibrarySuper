@@ -13,6 +13,7 @@ class AuthController {
         message: "User sign-up successfully",
         success: true,
         user: newUser,
+        role: role,
       });
     } catch (error) {
       console.error(error);
@@ -26,13 +27,14 @@ class AuthController {
   // Dang nhap
   async signIn(req, res) {
     try {
-      const data = req.body;
-      const result = await AuthService.signIn(data);
-
+      const databody = req.body;
+      const { role, data } = await AuthService.signIn(databody);
+      console.log("data: ", data);
       res.status(200).json({
         message: "Login successful!",
         success: true,
-        user: result,
+        user: data,
+        role: role,
       });
     } catch (error) {
       console.error(error);

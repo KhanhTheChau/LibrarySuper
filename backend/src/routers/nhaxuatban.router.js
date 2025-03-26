@@ -10,7 +10,7 @@ NhaXuatBanRouter.get("/:id", NhaXuatBanController.getNhaXuatBan);
 NhaXuatBanRouter.put("/:id", NhaXuatBanController.updateNhaXuatBan);
 NhaXuatBanRouter.delete("/:id", NhaXuatBanController.deleteNhaXuatBan);
 
-
+NhaXuatBanRouter.get("/", NhaXuatBanController.getAllNhaXuatBan);
 
 
 module.exports = NhaXuatBanRouter;

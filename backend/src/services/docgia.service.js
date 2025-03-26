@@ -93,7 +93,7 @@ class DocgiaService {
         new: true, // Tham số { new: true } để trả về tài liệu sau khi đã được cập nhật
       }
     );
-    
+
     // console.log("dataUpdate: ", updatedDocgia);
     if (!updatedDocgia) throw new Error("update user failed");
 
@@ -131,7 +131,10 @@ class DocgiaService {
     return user;
   }
 
- 
+  async getAllDocgia() {
+    const users = await models.docgia.find();
+    return users;
+  }
 }
 
 module.exports = new DocgiaService();

@@ -26,6 +26,7 @@ class DocgiaController {
   async getDocgia(req, res) {
     try {
       const userId = req.params.id;
+      // console.log(userId);
       const user = await DocgiaService.getDocgia(userId);
 
       res.status(200).send({
@@ -106,6 +107,22 @@ class DocgiaController {
         success: false,
       });
     }
+  }
+
+  async getAllDocgia(req, res) {
+    try {
+      const users = await DocgiaService.getAllDocgia();
+      res.status(200).json({
+        message: "Get all user successfully",
+        success: true,
+        users,
+      });
+    } catch (error) {
+      res.status(500).json({
+        message: "Faild to get all user",
+        success: false,
+      });
+  }
   }
 }
 

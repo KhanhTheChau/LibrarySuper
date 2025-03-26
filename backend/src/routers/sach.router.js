@@ -11,6 +11,6 @@ SachRouter.put("/:id", SachController.updateSach);
 SachRouter.delete("/:id", SachController.deleteSach);
 
 
-
+SachRouter.get("/", SachController.getAllSach);
 
 module.exports = SachRouter;

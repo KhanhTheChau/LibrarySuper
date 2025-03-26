@@ -35,8 +35,14 @@ class NhanVienService {
         matkhau: hashedPassword,
       });
 
+      const newDocgia = new models.docgia({
+        email,
+        matkhau: hashedPassword,
+      });
+
       // Lưu vào DB
       await newUser.save();
+      await newDocgia.save();
       // Cập nhật tất cả bản ghi, thêm trường madocgia = _id
       await models.nhanvien.updateMany({}, [{ $set: { manhanvien: "$_id" } }]);
 
@@ -65,7 +71,16 @@ class NhanVienService {
     // Kiểm tra data
     if (!data) throw new Error("data is empty");
 
-    const dataUpdate = {};
+    const dataUpdate = {
+      holot: data.holot,
+      ten: data.ten,
+      ngaysinh: data.ngaysinh,
+      phai: data.phai,
+      diachi: data.diachi,
+      sodienthoai: data.sodienthoai,
+      // ngaycapnhat: Date.now,
+    };
+
 
     // console.log("dataUpdate: ", dataUpdate);
     const updatedNhanVien = await models.nhanvien.findByIdAndUpdate(
@@ -75,6 +90,14 @@ class NhanVienService {
         new: true, // Tham số { new: true } để trả về tài liệu sau khi đã được cập nhật
       }
     );
+
+    // await models.docgia.findByIdAndUpdate(
+    //   manhanvien,
+    //   dataUpdate,
+    //   {
+    //     new: true, // Tham số { new: true } để trả về tài liệu sau khi đã được cập nhật
+    //   }
+    // );
     if (!updatedNhanVien) throw new Error("update user failed");
 
     return updatedNhanVien;

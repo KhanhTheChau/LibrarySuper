@@ -11,7 +11,7 @@ DocgiaRouter.put("/:id", DocgiaController.updateDocgia);
 DocgiaRouter.delete("/:id", DocgiaController.deleteDocgia);
 
 DocgiaRouter.put("/change-password/:id", DocgiaController.changePassword);
-
+DocgiaRouter.get("/", DocgiaController.getAllDocgia);
 
 
 
